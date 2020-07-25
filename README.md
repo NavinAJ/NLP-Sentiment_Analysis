@@ -1,4 +1,4 @@
-#NLP-Sentiment_Analysis>
+<b>#NLP-Sentiment_Analysis></b>
 
 <p align="center">
 <img src = "Image/word2vec.jpeg" width = 750 height=300>
