@@ -1,11 +1,11 @@
-#                                 NLP-Sentiment_Analysis
+<h1 align="center" #NLP-Sentiment_Analysis>
 
 <p align="center">
-<img src = "Image/word2vec.jpeg" width = 750 height=400>
+<img src = "Image/word2vec.jpeg" width = 750 height=300>
 <br>
 <br>
 <br>
-<img src = "Image/tfidf.jpeg" width = 750 height=400>
+<img src = "Image/tfidf.jpeg" width = 750 height=300>
 <br>
 <br>
 <br>
